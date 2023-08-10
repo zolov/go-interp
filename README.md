@@ -1,2 +1,2 @@
 # go-interp
-interpreter written in Go
+Simple interpreter written in Go
